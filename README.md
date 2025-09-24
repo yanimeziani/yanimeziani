@@ -1,19 +1,24 @@
-# Developer → Business Leader → AI-Powered Entrepreneur
+# About Me
 
-## 🔄 My Journey
-Started coding young, pivoted to business, returned when AI changed everything.
+I am a developer and entrepreneur who thrives at the intersection of **technology, creativity, and business**. My work is driven by curiosity and a commitment to turning bold ideas into practical, scalable solutions.
 
-## 🧠 Unique Advantage
-I speak both languages - **boardroom strategy** AND **production code**. This rare combination lets me build AI solutions that actually solve business problems, not just technical ones.
+## What Defines Me
+- **Bridge-Builder**: I connect high-level strategy with hands-on execution.  
+- **Relentless Learner**: Constantly exploring emerging tools, frameworks, and AI trends.  
+- **Creative Thinker**: Able to translate abstract concepts into real-world products.  
+- **Global & Bilingual**: Comfortable operating across languages, cultures, and industries.
 
-## 🚀 What I Bring
-- Business acumen + technical execution
-- 10+ years combined business/development experience
-- Deep understanding of both strategic vision and implementation reality
+## Skills Snapshot
+- Full-stack development (frontend, backend, cloud)  
+- AI/ML applications for real-world use cases  
+- User-centric design & product strategy  
+- Community building & open-source collaboration  
 
-## 🤝 Open to Collaboration
-Looking for partnerships where business vision meets AI innovation.
+## Values
+- **Impact over noise**: Build what matters, not what’s trendy.  
+- **Simplicity**: Elegant, maintainable solutions beat over-engineering.  
+- **Collaboration**: The best work comes from shared vision and diverse input.  
 
 ---
 
-*"The future belongs to those who can bridge the gap between what's possible and what's profitable."*
+💡 *“Can’t stop, won’t stop.”*
